@@ -6,7 +6,7 @@ Whether you're a cybersecurity professional, researcher, or individual seeking t
 
 ### Run Online Free On HackGit
 
-[![Open In HackGit](https://github.com/ferdaus2291/HackGit.git)
+[![Open In HackGit](https://github.com/ferdaus2291/HackGit)
 
 `For the best experience and to utilize the tool's full potential, install it.`
 
